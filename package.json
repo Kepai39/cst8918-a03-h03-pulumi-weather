@@ -11,6 +11,8 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@pulumi/azure-native": "^2.83.0",
+    "@pulumi/docker": "^4.6.1",
     "@remix-run/css-bundle": "^2.4.1",
     "@remix-run/node": "^2.4.1",
     "@remix-run/react": "^2.4.1",
