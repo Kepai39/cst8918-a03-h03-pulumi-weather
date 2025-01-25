@@ -1,5 +1,5 @@
 config:
-  cst8918-a03-infra:imageTag: v0.2.0
+  cst8918-a03-infra:imageTag: v0.2.5
   azure-native:location: westus3
   cst8918-a03-infra:appPath: ../
   cst8918-a03-infra:containerPort: '80'
@@ -8,4 +8,4 @@ config:
   cst8918-a03-infra:memory: '2'
   cst8918-a03-infra:prefixName: 'cst8918a03daig'
   cst8918-a03-infra:weatherApiKey:
-    secure: AAABAPDbgHmTEZ3lo2RMJUk3FKru85WlZZn1Ee2hExFM6LmX9pXJy++Mgvi3YvDqCG4FIUUyf7kE1nUdkM5AIw==
+    secure: AAABAHDVW6ReJbP92+NJJ3kk081zwnUahGQl2X0uniGWPQvjLwY5yJpKggs39siKuZ1CwWzody0cmfeWxvcKYA==
