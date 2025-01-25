@@ -367,14 +367,18 @@ pulumi destroy
 > [!CAUTION]
 > Failing to do this may exceed your Azure subscription limit, resulting in academic penalties!
 
-
-
-## ScreenShot & Names
-Catherine Daigle - 41175118
-Jaelend, Setosta
-
-![Screenshot of the Website:](lab-a03.png)
-
 ## Next Steps
 
 The instructions for Part Two of this practice scenario are in the [README-h03.md](https://github.com/rlmckenney/cst8918-w24-a03-weather-pulumi/blob/main/README-h03.md) file in this repo.
+
+
+## ScreenShots & Names
+Catherine Daigle - 41175118
+Jaelend, Setosta
+
+Assignment:
+![Screenshot of the Website:](lab-a03.png)
+
+
+Hybrid (The next Steps):
+![Screenshot of Pulumi](pulumi-output.png)
